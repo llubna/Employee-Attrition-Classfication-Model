@@ -1,11 +1,12 @@
-# Employee-JobSatisfaction-Classification-model
+## Employee-JobSatisfaction-Classification-model
 
 ### Project Proposal
 
 #### Question/need:
+
 Employee satisfaction is of utmost importance for employees to remain happy and also deliver their level best.
 Satisfied employees are the ones who are extremely loyal towards their organization and stick to it even in the worst scenario.
-therfor it is important to know the employee job satisfaction using modeling.
+therefore it is important to know the employee job satisfaction using modeling.
 
 
 #### Data Description:
@@ -25,7 +26,8 @@ therfor it is important to know the employee job satisfaction using modeling.
 - model will predict JobSatisfaction as the target.
 
 #### Tools:
-•	Technologies: Python, Jupyter notebook.
-•	Libraries: NumPy, Pandas, Matplotlib, seaborn, scikit-learn.
+
+- Technologies: Python, Jupyter notebook.
+- Libraries: NumPy, Pandas, Matplotlib, seaborn, scikit-learn.
 
 
