@@ -1,4 +1,4 @@
-## Employee Attrition Classfication Mode
+## Employee Attrition Classfication Model
 
 
 ### Project Proposal
